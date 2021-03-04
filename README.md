@@ -6,7 +6,7 @@
 - 📫 How to reach me **mitsun.massao@gmail.com**
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=massaomitsunaga&show_icons=true" alt="MassaoMitsunaga"/> 
+<img  src="https://github-readme-stats.vercel.app/api?username=massaomitsunaga&theme=tokyonight&show_icons=true" alt="MassaoMitsunaga"/> 
 </p>
 
 <p align="left">
