@@ -10,10 +10,10 @@
 </p>
 
 <p align="left">
-Links: <a href="https://www.linkedin.com/in/massaomitsunaga/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="massaomitsunaga" height="20" width="20" /></a>
- <a href="https://www.facebook.com/massao.mitsunaga/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="massaomitsunaga" height="20" width="20" /></a>
+Links: <a href="https://www.facebook.com/massao.mitsunaga/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="massaomitsunaga" height="20" width="20" /></a>
 <a href="https://www.instagram.com/massao_mitsunaga/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="massaomitsunaga" height="20" width="20" /></a>
 <a href="https://www.kaggle.com/massaomitsunaga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="massaomitsunaga" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/massaomitsunaga/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="massaomitsunaga" height="20" width="20" /></a>
 </p>
 
 <!--
