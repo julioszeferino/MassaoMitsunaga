@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massaomitsunaga" alt="massaomitsunaga" /> </p>
 <h3 align="center">Data Engineer | BI | Big Data | SFPC | RWVCPC | KIKF™</h3>
 
-- 🌱 I’m currently learning NODE and REACT
+- 🌱 I’m currently learning NODE and REACT, AirFlow and AWS Step Function, TerraForm IAC
 
 - 📫 How to reach me **mitsun.massao@gmail.com**
 
