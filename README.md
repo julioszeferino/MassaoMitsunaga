@@ -1,5 +1,6 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Massao Mitsunaga</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massaomitsunaga" alt="massaomitsunaga" /> </p>
+<h3 align="center">Data Engineer | BI | Big Data | SFPC | RWVCPC | KIKF™</h3>
 
 - 🌱 I’m currently learning NODE and REACT
 
