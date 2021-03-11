@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning NODE and REACT, AirFlow and AWS Step Function, TerraForm IAC
 
-- 📫 How to reach me **mitsun.massao@gmail.com**
-
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=massaomitsunaga&theme=tokyonight&layout=compact" alt="massaomitsunaga"/>
 </p>
