@@ -3,13 +3,15 @@
 <h3 align="center">Data Engineer | BI | Big Data | SFPC | RWVCPC | KIKF™</h3>
 
 - 🌱 I’m currently learning NODE and REACT, AirFlow and AWS Step Function, TerraForm IAC
+- 
+<p align="center">
+<img width=500px src="https://github-readme-stats.vercel.app/api?username=massaomitsunaga&theme=tokyonight&show_icons=true" alt="MassaoMitsunaga"/> 
+</p>
 
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=massaomitsunaga&theme=tokyonight&layout=compact" alt="massaomitsunaga"/>
+<p align="center" >
+<img width=500px src="https://github-readme-stats.vercel.app/api/top-langs/?username=massaomitsunaga&theme=tokyonight&layout=compact" alt="massaomitsunaga"/>
 </p>
-<p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=massaomitsunaga&theme=tokyonight&show_icons=true" alt="MassaoMitsunaga"/> 
-</p>
+
 
 <p align="left">
 Links: 
