@@ -2,8 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massaomitsunaga" alt="massaomitsunaga" /> </p>
 <h3 align="center">Data Engineer | BI | Big Data | SFPC | RWVCPC | KIKF™</h3>
 
-- 🌱 I’m currently learning NODE and REACT, AirFlow and AWS Step Function, TerraForm IAC. 
-- 📜 Also currently studying for the AWS Certified Cloud Practioner Certification!
+- 📜 Currently studying for the AWS Certified Cloud Practioner Certification!
 
 <p align="center">
 <img width=500px src="https://github-readme-stats.vercel.app/api?username=massaomitsunaga&theme=tokyonight&show_icons=true" alt="MassaoMitsunaga"/> 
