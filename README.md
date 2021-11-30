@@ -1,8 +1,13 @@
 <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Massao Mitsunaga</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massaomitsunaga" alt="massaomitsunaga" /> </p>
-<h3 align="center">Data Engineer | BI | Big Data | SFPC | RWVCPC | KIKF™</h3>
+<h3 align="center">Data Engineer</h3>
 
 - 📜 Currently studying for the AWS Certified Cloud Practioner Certification!
+
+- Also studying:
+  - Kafka
+  - Kubernetes
+  - Scala  
 
 <p align="center">
 <img width=500px src="https://github-readme-stats.vercel.app/api?username=massaomitsunaga&theme=tokyonight&show_icons=true" alt="MassaoMitsunaga"/> 
