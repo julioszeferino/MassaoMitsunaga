@@ -8,6 +8,11 @@
   - Kafka
   - Kubernetes
   - Scala  
+ 
+<p align="center">
+<h3 align="left"> Certifications </h3>
+<img align="left" src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png">
+</p>
 
 <p align="center">
 <img width=500px src="https://github-readme-stats.vercel.app/api?username=massaomitsunaga&theme=tokyonight&show_icons=true" alt="MassaoMitsunaga"/> 
