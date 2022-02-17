@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massaomitsunaga" alt="massaomitsunaga" /> </p>
 <h3 align="center">Data Engineer</h3>
 
-- 📜 Currently studying for the AWS Certified Cloud Practioner Certification!
+- 📜 Currently studying for the AWS Certified Solutions Architect Certification!
 
 - Also studying:
   - Kafka
