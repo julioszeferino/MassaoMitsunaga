@@ -10,11 +10,6 @@
   - Scala  
  
 <p align="center">
-<h3 align="left"> Certifications </h3>
-<img align="left" src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png">
-</p>
-
-<p align="center">
 <img width=500px src="https://github-readme-stats.vercel.app/api?username=massaomitsunaga&theme=tokyonight&show_icons=true" alt="MassaoMitsunaga"/> 
 </p>
 
@@ -29,3 +24,8 @@ Links:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Massao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/massaomitsunaga/)](https://www.linkedin.com/in/massaomitsunaga/) 
 [![Gmail Badge](https://img.shields.io/badge/-mitsun.massao@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mitsun.massao@gmail.com)](mailto:mitsun.massao@gmail.com)
+
+<p align="center">
+<h3 align="left"> Certifications </h3>
+<img align="left" src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png">
+</p>
