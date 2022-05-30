@@ -8,15 +8,13 @@
   - Kafka
   - Kubernetes
   - Scala  
- 
-<p align="center">
-<img width=500px src="https://github-readme-stats.vercel.app/api?username=massaomitsunaga&theme=tokyonight&show_icons=true" alt="MassaoMitsunaga"/> 
-</p>
 
-<p align="center" >
-<img width=500px src="https://github-readme-stats.vercel.app/api/top-langs/?username=massaomitsunaga&theme=tokyonight&layout=compact" alt="massaomitsunaga"/>
-</p>
-
+<div align="center">
+  <a href="https://github.com/josecarlosbarbosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=massaomitsunaga&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massaomitsunaga&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+  
 
 <p align="left">
 Links: 
