@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=massaomitsunaga" alt="massaomitsunaga" /> </p>
-<h2 align="center">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"  height = 50px width="30px"> I'm Massao Mitsunaga</h1>
+<h1 align="center">Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"  height = 50px width="30px"> I'm Massao Mitsunaga</h1>
 <h3 align="center">Data Engineer</h3>
 
 - 📜 Currently studying for the AWS Certified Solutions Architect Certification!
