@@ -26,6 +26,7 @@ Links:
 <p align="center">
   <h3 align="left"> Certifications </h3>
     <img align="left" src="https://images.credly.com/size/340x340/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" width="100" height="100">
+    <img align="left" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100">
     <img align="left" src="https://images.credly.com/size/340x340/images/655a478d-ecde-4a92-afcd-3c7be176ccf3/image.png" width="100" height="100">
     <img align="left" src="https://images.credly.com/size/340x340/images/ed8e9dd4-2125-4e0b-9db1-57cf67de09d9/image.png" width="100" height="100">
 </p>
